@@ -16,3 +16,5 @@ CREATE TABLE books (
 DESCRIBE books;
 SHOW CREATE TABLE books;
 DROP DATABASE IF EXISTS bookstore;
+
+--This is end of Day 2 Code
