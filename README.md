@@ -1,4 +1,4 @@
-# MySQL — 30-Day Learning Roadmap
+# MySQL — Learning Roadmap
 
 > A structured self-study log tracking daily progress from SQL basics to production-ready MySQL skills.
 
